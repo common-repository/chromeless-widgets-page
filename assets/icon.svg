@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="96" height="96" viewBox="0 0 96.00 96.00" enable-background="new 0 0 96.00 96.00" xml:space="preserve">
+	<rect x="0" y="7.62939e-006" fill="#2A271B" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="96" height="96"/>
+	<rect x="12" y="12" fill="#F7F7EC" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" width="36" height="24"/>
+	<rect x="60" y="12" fill="#F7F7EC" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" width="24" height="24"/>
+	<rect x="12" y="48" fill="#F7F7EC" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" width="24" height="36"/>
+	<rect x="48" y="48" fill="#F7F7EC" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" width="36" height="36"/>
+	<rect x="15.8727" y="15.9428" fill="#2A271B" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="28.5" height="2.8125"/>
+	<rect x="14.5602" y="50.6303" fill="#2A271B" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" width="18.75" height="3"/>
+	<ellipse fill="#2A271B" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" cx="72.1776" cy="23.9691" rx="7.1974" ry="7.46378"/>
+	<rect x="14.25" y="78.2809" fill="#2A271B" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" width="18.75" height="3"/>
+	<path fill="#2A271B" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 29.5994,56.5584L 29.5886,75.3084L 18.3383,75.3019L 18.3491,56.5519L 29.5994,56.5584 Z "/>
+	<path fill="#2A271B" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 72.0057,55.4351L 71.9937,76.3105L 59.9939,76.3036L 60.0059,55.4282L 72.0057,55.4351 Z "/>
+	<path fill="#2A271B" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 52.5447,80.6827L 52.5222,51.1206L 55.5222,51.1183L 55.5447,80.6804L 52.5447,80.6827 Z "/>
+	<path fill="#2A271B" fill-opacity="1" stroke-width="0.375" stroke-linejoin="round" d="M 77.0406,80.6516L 77.0181,51.0895L 80.0181,51.0872L 80.0406,80.6493L 77.0406,80.6516 Z "/>
+	<rect x="15.7099" y="22.75" fill="#2A271B" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="28.5" height="2.8125"/>
+	<rect x="15.7099" y="29.2131" fill="#2A271B" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="28.5" height="2.8125"/>
+</svg>
